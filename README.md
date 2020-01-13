@@ -1,2 +1,2 @@
 # VBScrip
-Repository destined to share some useful vbscript i have made
+Repository destined to share some usefull vbscript i have made
